@@ -71,7 +71,7 @@ let userNumber = +prompt ('Введите число');
 let namePlanet = prompt ('С какой вы планеты?');
 (namePlanet == 'Земля'|| namePlanet == 'земля') ? alert ('Привет, земляне!') : alert ('Привет, инопланетяне!');*/
 
-/*//Циклы while Задание 1
+//Циклы while Задание 1
 let numberRepeat = +prompt ('Введите число');
 let i=1;
 let resultString = '';
@@ -79,7 +79,7 @@ while (i<=numberRepeat) {
    resultString += '#';
     i=i++;
 }
-alert (resultString);*/
+alert (resultString);
 
 /*//Задание 2
 let userAnswer;
